@@ -1,0 +1,23 @@
+{
+  "name": "Testing-with-Jest",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wes-Isaac/Testing-with-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wes-Isaac/Testing-with-Jest/issues"
+  },
+  "homepage": "https://github.com/Wes-Isaac/Testing-with-Jest#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
